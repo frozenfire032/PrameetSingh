@@ -1,2 +1,2 @@
-# PrameetSingh
+# PrameetSingh.portfolio
 My first project
